@@ -1,0 +1,9 @@
+'Sharpe Ratiois' risk premium per unit of standard devistion. Its denominator is designed to capture total risk. And it is only appropriate for comparing performance of individual investment to well-diversified portfolio.
+
+'Trenyor Ratio' is risk premium per unit of market risk. Its denominator is designed to capture systematic risk and ignore idiosyncratic risk. It can be used to compare performance of individual investment to both well-diversified and non-diversified portfolio.
+
+'Sortino Ratio' is expected deviation from target return, per unit of below-target semi-deviation.
+
+"Jensen's Alpha" is the intercept coefficient from market model regression using excess returns.
+
+'Three Factor Alpha' -- use a linear regression model to determine exposure to market risk, size risk, and value risk for any asset. And the model fully explains stock returns, the estimated alpha should be statistically indistinguishable from zero.
