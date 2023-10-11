@@ -1,1 +1,0 @@
-Efficient frontier is reffered to as "efficient" if it has best possible expected level of return for its level of risk. We can solve the minimisation problem by minimising risk for given mean return and top half minimum-variance frontier is known as efficient frontier, consisting of portfolios with hightest mean return for given amount of risk.
